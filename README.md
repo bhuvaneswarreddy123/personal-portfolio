@@ -3,7 +3,7 @@
 Welcome to my **Personal Portfolio Website**! This project showcases my skills, experience, and projects in a simple yet elegant design. 
 
 ## 🔗 Live Demo
-Check out the live version here: [Portfolio](https://your-live-link.com) *(Replace with your actual link)*
+Check out the live version here: [Portfolio](https://personal-portfolio-zeta-tan.vercel.app/) 
 
 ## 📌 Features
 - Responsive Design 📱💻
@@ -39,8 +39,9 @@ Check out the live version here: [Portfolio](https://your-live-link.com) *(Repla
 
 ## 📧 Contact
 Feel free to reach out:
-- **Email:** your-email@example.com
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+- **Email:** agudurubhuvaneswarreddy@gmail.com
+- **GitHub:** [Your GitHub Profile](https://github.com/bhuvaneswarreddy123)
+- **LinkedIn:**[Your LinkedIn profile](https://www.linkedin.com/in/agudurubhuvaneswarreddy/)
 - **Instagram:** [@call_me_bhuvan99](https://www.instagram.com/call_me_bhuvan99/)
 
 ## 📝 License

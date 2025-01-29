@@ -40,8 +40,8 @@ Check out the live version here: [Portfolio](https://personal-portfolio-zeta-tan
 ## 📧 Contact
 Feel free to reach out:
 - **Email:** agudurubhuvaneswarreddy@gmail.com
-- **GitHub:** [Your GitHub Profile](https://github.com/bhuvaneswarreddy123)
-- **LinkedIn:**[Your LinkedIn profile](https://www.linkedin.com/in/agudurubhuvaneswarreddy/)
+- **GitHub:** [GitHub](https://github.com/bhuvaneswarreddy123)
+- **LinkedIn:**[LinkedIn](https://www.linkedin.com/in/agudurubhuvaneswarreddy/)
 - **Instagram:** [@call_me_bhuvan99](https://www.instagram.com/call_me_bhuvan99/)
 
 ## 📝 License
